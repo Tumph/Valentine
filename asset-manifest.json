@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9904af3d.css",
-    "main.js": "/react-gh-pages/static/js/main.62d54a08.js",
-    "static/js/488.9ae93f9d.chunk.js": "/react-gh-pages/static/js/488.9ae93f9d.chunk.js",
-    "static/media/heart.png": "/react-gh-pages/static/media/heart.9d5141bd036134d887ec.png",
-    "static/media/paper-texture.png": "/react-gh-pages/static/media/paper-texture.9d24d65548de02f527af.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.9904af3d.css.map": "/react-gh-pages/static/css/main.9904af3d.css.map",
-    "main.62d54a08.js.map": "/react-gh-pages/static/js/main.62d54a08.js.map",
-    "488.9ae93f9d.chunk.js.map": "/react-gh-pages/static/js/488.9ae93f9d.chunk.js.map"
+    "main.css": "/Valentine/static/css/main.89567eb7.css",
+    "main.js": "/Valentine/static/js/main.c1456476.js",
+    "static/js/488.aa2972c7.chunk.js": "/Valentine/static/js/488.aa2972c7.chunk.js",
+    "static/media/heart.png": "/Valentine/static/media/heart.9d5141bd036134d887ec.png",
+    "static/media/paper-texture.png": "/Valentine/static/media/paper-texture.9d24d65548de02f527af.png",
+    "index.html": "/Valentine/index.html",
+    "main.89567eb7.css.map": "/Valentine/static/css/main.89567eb7.css.map",
+    "main.c1456476.js.map": "/Valentine/static/js/main.c1456476.js.map",
+    "488.aa2972c7.chunk.js.map": "/Valentine/static/js/488.aa2972c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9904af3d.css",
-    "static/js/main.62d54a08.js"
+    "static/css/main.89567eb7.css",
+    "static/js/main.c1456476.js"
   ]
 }
